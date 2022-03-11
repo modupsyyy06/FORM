@@ -1,0 +1,99 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+form{
+    
+    height: 95vh;
+    width: 100vw;
+ display: flex;
+}
+#text{
+   
+    width: 650px;
+    height: 100vh;
+    padding-left: 40px;
+    padding-top: 55px;
+    
+    
+}
+#img{
+       height: 100vh;
+    width: 0px;
+} 
+#divimg{
+    height: 100vh;
+    width: 1100px;
+}
+ form h2{
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-bottom: 50px;
+
+    
+}
+    
+form input[type="text"]
+{
+    color: chartreuse;
+   width: 500px;
+    height: 40px;
+    margin-bottom: 80px;
+    text-align:left;
+    
+
+}
+form label{
+    color: rgb(46, 43, 209);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.button{
+    background-color: white;
+    height: 30px;
+    font-weight: bolder;
+    width:100px ;
+     color: rgb(53, 62, 175);
+     border-radius: 1px solid;
+     font-size: large;
+    margin-bottom:0
+    }
+    #check{
+        padding-bottom: 20px;
+     
+    }
+
+    #forgotpassword{
+        padding-right: 400px;
+        margin-bottom: 1000px;
+    
+     }
+
+    #remember{
+
+        margin-bottom: 100px;
+    }
+   
+
+        
+
+        
+    
+       
+    }
+
+    
+    
+    
+
+     
+
+
+    
+
+
+
+
+
